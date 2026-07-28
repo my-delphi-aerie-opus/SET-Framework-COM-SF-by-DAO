@@ -1,7 +1,7 @@
 The SET Framework for COM-SF by Delphi Aerie Opus (DAO)
 
 # 🏛️ SET-Framework-COM-SF
-### Developed by DAO | A Falconia Consulting R&D Initiative
+### Developed by DAO | A Falconia Group Company
 
 ---
 
